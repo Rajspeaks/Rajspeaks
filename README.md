@@ -1,4 +1,4 @@
-#<a href="https://rajspeaks.github.io"> <b>Rajdeep Das</> https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif
+#<a href="https://rajspeaks.github.io"> <b>Rajdeep Das</a> https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif
 -----------------------------------------------------------------------------------------------
 ##Hey there https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif, 
 ###Thanks for landing here 😉 ! 
