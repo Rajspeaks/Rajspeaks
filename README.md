@@ -6,7 +6,7 @@ Hey there :wave:
 
 Thanks for landing here 😉 ! 
 -----------------------------------------------------------------------------------------------
-![](https://komarev.com/ghpvc/?username=Rajspeaks&color=green&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
+![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
  
  
 
