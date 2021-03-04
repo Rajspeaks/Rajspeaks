@@ -1,6 +1,8 @@
 <a href="https://rajspeaks.github.io"> <b>Rajdeep Das</b></a> :man_technologist:
 -----------------------------------------------------------------------------------------------
+
 Hey there :wave:
+-----------------------------------------------------------------------------------------------
 
 Thanks for landing here 😉 ! 
 -----------------------------------------------------------------------------------------------
@@ -17,6 +19,6 @@ Thanks for landing here 😉 !
 
  | My <a href="https://rajdeepdascv.netlify.app"> <b> Infosec Write up Portal </b></a> 
 
-[![Rajdeep's Commitments on GitHub ](https://github-readme-stats.vercel.app/api?username=Rajspeaks)](https://github.com/Rajspeaks&show_icons=true&theme=vue-dark/github-readme-stats)
+[![Rajdeep's Commitments on GitHub ](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 
