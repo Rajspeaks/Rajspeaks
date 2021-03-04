@@ -1,7 +1,7 @@
-#<a href="https://rajspeaks.github.io"> <b>Rajdeep Das</a> 
+<a href="https://rajspeaks.github.io"> <b>Rajdeep Das</a> 
 -----------------------------------------------------------------------------------------------
-##Hey there 
-###Thanks for landing here 😉 ! 
+#Hey there 
+#Thanks for landing here 😉 ! 
 
 
  | Visit my personal site https://rajspeaks.github.io
