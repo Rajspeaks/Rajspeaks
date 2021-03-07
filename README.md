@@ -7,7 +7,7 @@ Hey there :wave:
 Thanks for landing here 😉 ! 
 -----------------------------------------------------------------------------------------------
 
-https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG">
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
  
