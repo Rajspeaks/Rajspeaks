@@ -12,6 +12,8 @@ Thanks for landing here 😉 !
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
+<br>
+Checkout my Resume: <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf">
  
  
 
