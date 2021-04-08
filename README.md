@@ -13,7 +13,7 @@ Thanks for landing here 😉 !
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
 <br>
-<a href="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf"> Checkout my Resume </a>
+<a href="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf", target="_blank"> Checkout my Resume </a>
  
  
 
@@ -22,7 +22,7 @@ Thanks for landing here 😉 !
  
  | Have a look at my <a href="https://iamrajdeep.wordpress.com" class="button big"> <b>Personal blog </b></a> 
  
- | Free visit to my <a href="https://thetechlearner.wordpress.com" class="button big"> <b> Techno-land </b></a> 
+ | Free visit to my <a href="https://thetechlearner.wordpress.com" class="button big", target="_blank"> <b> Techno-land </b></a> 
 
  | My <a href="https://rajdeepdascv.netlify.app" class="button big"> <b> Infosec Write up Portal </b></a> 
 
