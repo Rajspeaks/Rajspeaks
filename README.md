@@ -7,7 +7,7 @@ Hey there :wave:
 Thanks for landing here 😉 ! 
 -----------------------------------------------------------------------------------------------
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=300 width=300>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=200 width=200>
 <h2>Meet a Madly NoMad Explorer!</h2>
 <br>
 
