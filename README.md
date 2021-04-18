@@ -1,4 +1,4 @@
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=300 width=100%>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=350 width=100%>
 
 ---------------------------------------------------------------------------------------------------
 <a href="https://rajspeaks.github.io"> <b>Rajdeep Das</b></a> :man_technologist:
@@ -13,6 +13,8 @@ Thanks for landing here 😉 !
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=200 width=200>
 <h2>Meet a Madly NoMad Explorer!</h2>
 <br>
+
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif">
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
 <br>
