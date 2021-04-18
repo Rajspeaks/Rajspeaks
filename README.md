@@ -1,4 +1,4 @@
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height= 900 width=100%>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height= 500 width=100%>
 
 ---------------------------------------------------------------------------------------------------
 <a href="https://rajspeaks.github.io"> <b>Rajdeep Das</b></a> :man_technologist:
