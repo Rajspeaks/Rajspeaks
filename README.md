@@ -14,7 +14,7 @@ Thanks for landing here 😉 !
 <h2>Meet a Madly NoMad Explorer!</h2>
 <br>
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=350 width=200>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=200 width=200>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
