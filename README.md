@@ -1,7 +1,7 @@
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=350 width=100%>
 
 ---------------------------------------------------------------------------------------------------
-<a href="https://rajspeaks.github.io"> <b>Rajdeep Das</b></a> :man_technologist:
+<a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:
 -----------------------------------------------------------------------------------------------
 
 Hey there :wave:
