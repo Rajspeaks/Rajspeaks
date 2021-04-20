@@ -14,12 +14,12 @@ Thanks for landing here! Hope you like! <img align ='center' src='https://media2
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
   (AUTO-COUNTING)
-<br>
+<br><br>
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191627.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191703.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=100 width=100>
 
 <h3>Meet a Madly NoMad Explorer!</h3> 
 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px>
 
 <h2>About me:</h2>
 
@@ -100,6 +100,6 @@ Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/Sh
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
-[![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajspeaks&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
+[![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajdeep&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 
 &copy; Made by Rajdeep Das
