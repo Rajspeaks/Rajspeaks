@@ -17,9 +17,9 @@ Thanks for landing here 😉 !
 
 A Tech-enthusiast & IT geek, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
 Trying to upgrade myself daily with new skills! 
-> Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India
+ Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India
 <br>
-> Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India
+ Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India
 
 
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=250>
