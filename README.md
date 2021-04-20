@@ -10,11 +10,11 @@ Hey there :wave:
 Thanks for landing here 😉 ! 
 -----------------------------------------------------------------------------------------------
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=200 width=250>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=200 width=200>
 <h2>Meet a Madly NoMad Explorer!</h2>
 <br>
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=200 width=200>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=250>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
