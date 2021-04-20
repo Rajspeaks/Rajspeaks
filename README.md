@@ -12,10 +12,11 @@ Thanks for landing here! Hope you like! <img align ='center' src='https://media2
 -----------------------------------------------------------------------------------------------
 
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=200 width=200>
-<h2>Meet a Madly NoMad Explorer!</h2> <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?
+
+<h2>Meet a Madly NoMad Explorer!</h2> 
 <br>
 ----------------------------------------------------------------------------------------------------------------------------------------------
-<h2> About me: </h2>
+ <h2>About me:</h2>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
