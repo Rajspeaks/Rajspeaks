@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191645.jpg" height=90 width=90>
 <h2><a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a></h2> :man_technologist:
------------------------------------------------------------------------------------------------
+
 
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
@@ -14,12 +14,10 @@ Thanks for landing here! Hope you like! <img align ='center' src='https://media2
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191627.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191703.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=100 width=100>
 
 <h2>Meet a Madly NoMad Explorer!</h2> 
-<br>
 <p align="center">
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
 </p>
-
- <h2>About me:</h2>
+<h2>About me:</h2>
 
 A Tech-enthusiast Geeky Nerd, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
 Trying to upgrade myself daily with new skills! 
