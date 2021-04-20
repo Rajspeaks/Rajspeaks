@@ -5,23 +5,27 @@
 <a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:
 -----------------------------------------------------------------------------------------------
 
-Hey there :wave:
+<h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 -----------------------------------------------------------------------------------------------
 
-Thanks for landing here 😉 ! 
+Thanks for landing here! Hope you like! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'> 
 -----------------------------------------------------------------------------------------------
 
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=200 width=200>
-<h2>Meet a Madly NoMad Explorer!</h2>
+<h2>Meet a Madly NoMad Explorer!</h2> <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?
 <br>
-
+----------------------------------------------------------------------------------------------------------------------------------------------
+<h2> About me: </h2>
+<p align="center">
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
+</p>
 A Tech-enthusiast & IT geek, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
 Trying to upgrade myself daily with new skills! 
 
- Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India
+ Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.
 <br>
- Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India
-
+ Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.
+ 
 
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=250>
 <br>
@@ -47,9 +51,9 @@ A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.
  | My <a href="https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e" class="button big"> <b> QwikLabs Profile on Google Cloud Skill Badges<b></a>
  
  
- # Languages and Tools:-
+ # Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
  
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/8800813ba1444b66dbff3d47c8d778f8.gif" height="200" width="300" align="center">
+ <p align="center"> <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/8800813ba1444b66dbff3d47c8d778f8.gif" height="200" width="300"></p>
  
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
@@ -86,10 +90,8 @@ Catch me on:
 <code><a href="https://medium.com/@iamrajdeep"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></code>
 <code><a href="https://iamrajdeep.wordpress.com"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a></code>
 
-
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+GitHub Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 
 [![Rajdeep's Commitments on GitHub ](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
