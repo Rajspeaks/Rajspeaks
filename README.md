@@ -19,18 +19,18 @@ Thanks for landing here! Hope you like! <img align ='center' src='https://media2
 
 <h3>Meet a Madly NoMad Explorer!</h3> 
 
-<img align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 <h2>About me:</h2>
 
 A Tech-enthusiast Geeky Nerd, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
 Trying to upgrade myself daily with new skills! 
 
-<h3>Education </h3>
+<h3>Education: </h3>
 
 Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.
 <br>
- Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.
+Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.
  
 
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270>
@@ -43,7 +43,9 @@ A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px>
  </p>
  
- | <a href="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf"> Checkout my Resume </a>
+ | <a href="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf"> My Resume </a>
+ 
+ | <a href="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements"> View all my certification, rewards, honours, credits here: </a>
 
  | Check out my Web-Resume: <a href="https://rajdeepdascv.netlify.app" class="button big"> <b>Rajdeep Das</b></a> 
  
@@ -98,6 +100,6 @@ Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/Sh
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajdeep)](https://github.com/Rajspeaks/github-readme-stats)
+[![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajspeaks&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 
-&copy; by Rajdeep Das
+&copy; Made by Rajdeep Das
