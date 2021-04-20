@@ -1,4 +1,4 @@
-<bgsound src="https://github.com/Rajspeaks/Rajspeaks/blob/main/bensound-scifi.mp3" autostart> play music!
+
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=360 width=100%>
 
 ---------------------------------------------------------------------------------------------------
@@ -18,6 +18,7 @@ Thanks for landing here 😉 !
 A Tech-enthusiast & IT geek, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
 Trying to upgrade myself daily with new skills! 
 > Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India
+<br>
 > Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India
 
 
@@ -27,6 +28,7 @@ Trying to upgrade myself daily with new skills!
 A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> & <a href="hackitalki.home.blog"> HackiTalki </a>
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
+(AUTO-COUNTED)
 <br>
 <a href="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf"> Checkout my Resume </a>
  
