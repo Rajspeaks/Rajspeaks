@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------------------------------
 
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
------------------------------------------------------------------------------------------------
+
 
 Thanks for landing here! Hope you like! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'> 
 -----------------------------------------------------------------------------------------------
@@ -15,9 +15,9 @@ Thanks for landing here! Hope you like! <img align ='center' src='https://media2
 
 <h2>Meet a Madly NoMad Explorer!</h2> 
 <br>
-----------------------------------------------------------------------------------------------------------------------------------------------
+
  <h2>About me:</h2>
------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
 </p>
@@ -46,10 +46,6 @@ A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.
  | Check out my Web-Resume: <a href="https://rajdeepdascv.netlify.app" class="button big"> <b>Rajdeep Das</b></a> 
  
  | Have a look at my <a href="https://iamrajdeep.wordpress.com" class="button big"> <b>Personal blog </b></a> 
- 
- | Free visit to my <a href="https://thetechlearner.wordpress.com" class="button big"> <b> Techno-land </b></a> 
-
- | My <a href="https://rajdeepdascv.netlify.app" class="button big"> <b> Infosec Write up Portal </b></a> 
  
  | My <a href="https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e" class="button big"> <b> QwikLabs Profile on Google Cloud Skill Badges<b></a>
  
