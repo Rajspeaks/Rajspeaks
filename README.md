@@ -3,20 +3,24 @@
 
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191645.jpg" height=90 width=90>
-<h2><a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a></h2> :man_technologist:
+<h2><a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:</h2>
 
 
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 
 Thanks for landing here! Hope you like! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'> 
------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
+  (AUTO-COUNTING)
+<br>
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191627.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191703.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=100 width=100>
 
-<h2>Meet a Madly NoMad Explorer!</h2> 
-<p align="center">
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
-</p>
+<h3>Meet a Madly NoMad Explorer!</h3> 
+
+<img align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
+
 <h2>About me:</h2>
 
 A Tech-enthusiast Geeky Nerd, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
@@ -34,8 +38,6 @@ Graduated in Bachelor of Computer Application from Netaji Subhash Engineering Co
 
 A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> & <a href="hackitalki.home.blog"> HackiTalki </a>
 
-![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
-  (AUTO-COUNTED)
 <br>
 <p align="center">
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px>
@@ -95,7 +97,7 @@ Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/Sh
 [![Rajdeep's Commitments on GitHub ](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
-
-
+&nbsp; &nbsp;
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajdeep)](https://github.com/Rajspeaks/github-readme-stats)
 
 &copy; by Rajdeep Das
