@@ -2,6 +2,7 @@
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=360 width=100%>
 
 ---------------------------------------------------------------------------------------------------
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191645.jpg" height=90 width=90>
 <a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:
 -----------------------------------------------------------------------------------------------
 
@@ -10,26 +11,29 @@
 
 Thanks for landing here! Hope you like! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'> 
 -----------------------------------------------------------------------------------------------
-
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=200 width=200>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191627.jpg" height=100 width=100>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191703.jpg" height=100 width=100>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=100 width=100>
 
 <h2>Meet a Madly NoMad Explorer!</h2> 
 <br>
-
- <h2>About me:</h2>
-
 <p align="center">
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px>
 </p>
-A Tech-enthusiast & IT geek, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
+
+ <h2>About me:</h2>
+
+A Tech-enthusiast Geeky Nerd, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
 Trying to upgrade myself daily with new skills! 
+
+<h3>Education </h3>
 
 Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.
 <br>
  Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.
  
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=250>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270>
 <br>
 
 A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> & <a href="hackitalki.home.blog"> HackiTalki </a>
