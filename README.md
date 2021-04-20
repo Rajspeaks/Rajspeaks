@@ -3,7 +3,7 @@
 
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191645.jpg" height=90 width=90>
-<a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:
+<h2><a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a></h2> :man_technologist:
 -----------------------------------------------------------------------------------------------
 
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -11,9 +11,7 @@
 
 Thanks for landing here! Hope you like! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'> 
 -----------------------------------------------------------------------------------------------
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191627.jpg" height=100 width=100>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191703.jpg" height=100 width=100>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=100 width=100>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191627.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191703.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=100 width=100>
 
 <h2>Meet a Madly NoMad Explorer!</h2> 
 <br>
@@ -94,7 +92,7 @@ Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/Sh
 <code><a href="https://iamrajdeep.wordpress.com"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a></code>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-GitHub Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
+<h3>GitHub Stats:</h3> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 
 [![Rajdeep's Commitments on GitHub ](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
