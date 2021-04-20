@@ -48,6 +48,9 @@ A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.
  
  
  # Languages and Tools:-
+ 
+ <center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/8800813ba1444b66dbff3d47c8d778f8.gif" height="500" width="500"></center>
+ 
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
