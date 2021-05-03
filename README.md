@@ -59,7 +59,7 @@ A Technophile blogger to become the Fountainhead of <a href="https://thetechlear
  
  # Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
  
- <p align="center"> <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/8800813ba1444b66dbff3d47c8d778f8.gif" height="300" width="100%"></p>
+ <p align="center"> <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/8800813ba1444b66dbff3d47c8d778f8.gif" height="330" width="100%"></p>
  
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>&nbsp;
@@ -80,7 +80,7 @@ A Technophile blogger to become the Fountainhead of <a href="https://thetechlear
 <code><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></code>&nbdp;
+<code><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>&nbsp;
