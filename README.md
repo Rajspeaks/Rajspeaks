@@ -23,20 +23,23 @@ Thanks for landing here! <img align ='center' src='https://media2.giphy.com/medi
 
 <h2>About me:</h2>
 
-A Tech-enthusiast Geeky Nerd, focused on learning Web Developing, Infosec & Network Security, Cloud Computing & an ardent of Machine Learning! 
+A Techie as Geeky Nerd!
+Focused on learning Web Developing, a fervent of Creative Designing for web,  Infosec & Network Security enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning! 
 Trying to upgrade myself daily with new skills! 
+Out of that I'm a movie-buff, book-worm & a hobbyist blogger, occational mobile-clicker (Not a Photographer!), stuck in retro music!
+Passionate Visionary!
 
 <h3>Education: </h3>
 
-Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.
+Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)
 <br>
-Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.
+Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
  
 
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270>
 <br>
 
-A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> & <a href="hackitalki.home.blog"> HackiTalki </a>
+A Technophile blogger to become the Fountainhead of <a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> & <a href="hackitalki.home.blog"> HackiTalki </a>
 
 <br>
 <p align="center">
@@ -56,7 +59,7 @@ A Hobbyist Technophile blogger. Fountainhead of <a href="https://thetechlearner.
  
  # Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
  
- <p align="center"> <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/8800813ba1444b66dbff3d47c8d778f8.gif" height="250" width="100%"></p>
+ <p align="center"> <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/8800813ba1444b66dbff3d47c8d778f8.gif" height="300" width="100%"></p>
  
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>&nbsp;
