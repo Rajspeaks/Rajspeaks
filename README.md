@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=300 width=100%>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/banner/banner.jpg" height=300 width=100%>
 
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/5.jpeg" height=90 width=90>
@@ -23,10 +23,11 @@ Thanks for landing here! <img align ='center' src='https://media2.giphy.com/medi
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/2.jpeg" height=100 width=100> &nbsp;
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/3.jpeg" height=100 width=100> &nbsp;
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/7.jpeg" height=100 width=100> &nbsp;
+ </p>
 
-<h3>Meet a Madly NoMad Explorer!</h3> 
-<h4> A Confused Coder! </h4>
-</p>
+<p align= "center"> <h3>Meet a Madly NoMad Explorer!</h3> </p>
+<p align = "center"> <h4> A Confused Coder! </h4></p>
+
 
 <p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></p> 
 
