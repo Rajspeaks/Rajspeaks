@@ -113,4 +113,11 @@ Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/Sh
 <br>
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
   
-&copy; Made by Rajdeep Das
+<p align="center">
+ 
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/unnamed.jpg" height="250" width="200">
+
+ </p>
+  <p align="center"><h3> Check out my contributions </h3></p> 
+  
+  &copy; Made by Rajdeep Das
