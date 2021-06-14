@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=350 width=100%>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=300 width=100%>
 
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191645.jpg" height=90 width=90>
@@ -19,15 +19,17 @@ Thanks for landing here! <img align ='center' src='https://media2.giphy.com/medi
 
 <h3>Meet a Madly NoMad Explorer!</h3> 
 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px>
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px> &nbsp; &nbsp; &nbsp; 
+<img src = "https://github.com/Rajspeaks/Rajspeaks/blob/main/78163908.jpg" height=300 width=300>
 
 <h2>About me:</h2>
 
-A Techie as Geeky Nerd!
-Focused on learning Web Developing, a fervent of Creative Designing for web,  Infosec & Network Security enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning! 
-Trying to upgrade myself daily with new skills! 
-Out of that I'm a movie-buff, book-worm & a hobbyist blogger, occational mobile-clicker (Not a Photographer!), stuck in retro music!
-Passionate Visionary!
+A Techie as Geeky Nerd!<br>
+Focused on learning Web Developing, especially fervent of Designing, An Infosec & Network Security enthusiast, ossasionally Cloud-DevOps practitioner & an ardent of Machine Learning!
+<br>
+Trying to upgrade myself daily with new skills!
+<p> Out of that I'm a movie-buff, book-worm & a hobbyist blogger, occational mobile-clicker (Not a Photographer!), stuck in retro music!</p>
+<p> Passionate Visionary!</p>
 
 <h3>Education: </h3>
 
@@ -36,7 +38,7 @@ Graduated in Bachelor of Computer Application from Netaji Subhash Engineering Co
 Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
  
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270>
+<center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
 <br>
 
 A Technophile blogger to become the Fountainhead of <a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> & <a href="hackitalki.home.blog"> HackiTalki </a>
@@ -103,6 +105,7 @@ Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/Sh
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
-[![Rajdeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajdeep&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
-
+<br>
+[![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
+  
 &copy; Made by Rajdeep Das
