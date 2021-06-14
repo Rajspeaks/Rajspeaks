@@ -15,6 +15,7 @@ Thanks for landing here! <img align ='center' src='https://media2.giphy.com/medi
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+PROFILE+VISITS+TILL+NOW:+ )
   (AUTO-COUNTING)
 <br><br>
+<p align="center">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/4.jpeg" height=100 width=100> &nbsp;
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/6.jpeg" height=100 width=100> &nbsp;
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/1.jpeg" height=100 width=100> &nbsp;
@@ -24,16 +25,20 @@ Thanks for landing here! <img align ='center' src='https://media2.giphy.com/medi
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/7.jpeg" height=100 width=100> &nbsp;
 
 <h3>Meet a Madly NoMad Explorer!</h3> 
+<h4> A Confused Coder! </h4>
+</p>
 
 <p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></p> 
 
 
 <h2>About me:</h2>
 
-A Techie as Geeky Nerd!<br>
+A Technophile Geeky Nerd!<br>
 Focused on learning Web Developing, especially fervent of Designing.
 <br>
 An InfoSec & Network-Security Enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
+<br>
+A Hobbyist Technical blogger!!
 <br>
 Trying to upgrade myself daily with new skills!
 <p> Out of that I'm a movie-buff, book-worm & a hobbyist blogger, occational mobile-clicker (Not a Photographer!), stuck in retro music!</p>
@@ -69,7 +74,7 @@ A Technophile blogger to become the Fountainhead of <a href="https://thetechlear
  
  # Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
  
- <p align="center"> <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/78163908.jpg" height="330" width="300"></p>
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/78163908.jpg" height="250" width="200">
 
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>&nbsp;
