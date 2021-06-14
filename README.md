@@ -2,7 +2,7 @@
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/618af9c5109700f9249848d3d0667318.gif" height=300 width=100%>
 
 ---------------------------------------------------------------------------------------------------
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191645.jpg" height=90 width=90>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/5.jpeg" height=90 width=90>
 <h2><a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:</h2>
 
 
@@ -12,20 +12,28 @@
 Thanks for landing here! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'> 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+TIMES+PEOPLE+VISITED+TO+THIS+PROFILE+TILL+NOW:+ )
+![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+PROFILE+VISITS+TILL+NOW:+ )
   (AUTO-COUNTING)
 <br><br>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191627.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/20210420_191703.jpg" height=100 width=100> &nbsp; <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Capture.JPG" height=100 width=100>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/4.jpeg" height=100 width=100> &nbsp;
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/6.jpeg" height=100 width=100> &nbsp;
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/1.jpeg" height=100 width=100> &nbsp;
+<br>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/2.jpeg" height=100 width=100> &nbsp;
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/3.jpeg" height=100 width=100> &nbsp;
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/7.jpeg" height=100 width=100> &nbsp;
 
 <h3>Meet a Madly NoMad Explorer!</h3> 
 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px> &nbsp; &nbsp; &nbsp; 
-<img src = "https://github.com/Rajspeaks/Rajspeaks/blob/main/78163908.jpg" height=300 width=300>
+<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></p> 
+
 
 <h2>About me:</h2>
 
 A Techie as Geeky Nerd!<br>
-Focused on learning Web Developing, especially fervent of Designing, An Infosec & Network Security enthusiast, ossasionally Cloud-DevOps practitioner & an ardent of Machine Learning!
+Focused on learning Web Developing, especially fervent of Designing.
+<br>
+An InfoSec & Network-Security Enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
 <br>
 Trying to upgrade myself daily with new skills!
 <p> Out of that I'm a movie-buff, book-worm & a hobbyist blogger, occational mobile-clicker (Not a Photographer!), stuck in retro music!</p>
@@ -61,31 +69,22 @@ A Technophile blogger to become the Fountainhead of <a href="https://thetechlear
  
  # Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
  
- <p align="center"> <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/8800813ba1444b66dbff3d47c8d778f8.gif" height="330" width="100%"></p>
- 
+ <p align="center"> <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/78163908.jpg" height="330" width="300"></p>
+
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>&nbsp;
+  <br>
 <code><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>&nbsp;
-<code><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>&nbsp;
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
