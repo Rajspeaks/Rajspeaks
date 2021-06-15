@@ -5,7 +5,7 @@
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/5.jpeg" height=90 width=90>
 <h2><a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:</h2>
 
-![header](https://capsule-render.vercel.app/api?text=Welcome%to%my%Codeverse!&type=wave&color=random&height=200&section=header&text=capsule%20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Welcome%20to%20my%20Codeverse!&textBg=true&fontSize=60)
 
 
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
