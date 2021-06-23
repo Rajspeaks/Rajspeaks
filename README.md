@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/banner/banner.jpg" height=300 width=100%>
+
 
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/5.jpeg" height=90 width=90>
