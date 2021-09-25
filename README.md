@@ -46,13 +46,14 @@
 <h2>About me:</h2>
 
 A Technophile Geeky Nerd!<br>
--- Focused on learning Web Developing, especially fervent of Designing.
+Focused on learning Web Developing, especially fervent of Designing.
 <br>
--- An InfoSec & Network-Security Enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
+An InfoSec & Network-Security Enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
 <br>
--- A hobbyist Technical blogger!!
+A hobbyist Technical blogger!!
 <br>
 Trying to upgrade myself daily with new skills!
+
 ---------------------------------------------------------------------------------------
 
 <h3>Education: </h3>
