@@ -46,15 +46,14 @@
 <h2>About me:</h2>
 
 A Technophile Geeky Nerd!<br>
-Focused on learning Web Developing, especially fervent of Designing.
+-- Focused on learning Web Developing, especially fervent of Designing.
 <br>
-An InfoSec & Network-Security Enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
+-- An InfoSec & Network-Security Enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
 <br>
-A Hobbyist Technical blogger!!
+-- A hobbyist Technical blogger!!
 <br>
 Trying to upgrade myself daily with new skills!
-<p> Out of that I'm a movie-buff, book-worm & a hobbyist blogger, occational mobile-clicker (Not a Photographer!), stuck in retro music!</p>
-<p> Passionate Visionary!</p>
+---------------------------------------------------------------------------------------
 
 <h3>Education: </h3>
 
@@ -66,7 +65,8 @@ Pursuing Master of Computer Application from Heritage Institute of Technology, W
 <center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
 <br>
 
-A Technophile blogger to become the Fountainhead of <a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> & <a href="hackitalki.home.blog"> HackiTalki </a>
+Tech-blog<code><a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> </code> <br>
+Infosec <code><a href="hackitalki.home.blog"> HackiTalki </a></code>
 
 <br>
 <p align="center">
