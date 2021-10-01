@@ -60,16 +60,11 @@ Trying to upgrade myself daily with new skills!
 ---------------------------------------------------------------------------------------
 
 <h3>Education: </h3>
-<li>
-  <ol type="circle"> Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)</ol>
-<ol type="circle">Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022) </ol>
-
-  </li>
+Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)
+Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
 
 <center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
 <br>
-
-
 
 <br>
 <p align="center">
@@ -85,12 +80,13 @@ Trying to upgrade myself daily with new skills!
   [![Website](https://img.shields.io/website?label=Personal-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://iamrajdeep.wordpress.com)
 
   [![Website](https://img.shields.io/website?label=Qwiklabs-profile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e)
-
-   <br>
-   In  addition:
-   <br>
-    [![Website](https://img.shields.io/website?label=Tech-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thetechlearner.wordpress.com)
-    [![Website](https://img.shields.io/website?label=Qwiklabs-profile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](hackitalki.home.blog)
+  
+  <br>
+  In addition:
+  <br>
+   
+  [![Website](https://img.shields.io/website?label=Tech-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thetechlearner.wordpress.com)
+  [![Website](https://img.shields.io/website?label=Qwiklabs-profile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](hackitalki.home.blog)
  
    
  # Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
