@@ -73,7 +73,7 @@ Pursuing Master of Computer Application from Heritage Institute of Technology, W
 
  [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
  
-  [![Website](https://img.shields.io/website?label=Certification/Achievements&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements)
+  [![Website](https://img.shields.io/website?label=Certifications/Achievements&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements)
 
   [![Website](https://img.shields.io/website?label=Web-resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajdeepdascv.netlify.app)
 
@@ -86,7 +86,7 @@ Pursuing Master of Computer Application from Heritage Institute of Technology, W
   <br>
    
   [![Website](https://img.shields.io/website?label=Tech-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thetechlearner.wordpress.com)
-  [![Website](https://img.shields.io/website?label=Qwiklabs-profile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](hackitalki.home.blog)
+  [![Website](https://img.shields.io/website?label=Infosec-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](hackitalki.home.blog)
  
    
  # Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
