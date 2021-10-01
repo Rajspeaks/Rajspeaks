@@ -43,7 +43,7 @@
 <p align = "center"> <h4> A Confused Coder! </h4></p>
 
 
-<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = 200px width = 200px></p> 
+<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = 150px width = 150px></p> 
 
 
 <h2>About me:</h2>
@@ -61,6 +61,7 @@ Trying to upgrade myself daily with new skills!
 
 <h3>Education: </h3>
 Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)
+<br>
 Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
 
 <center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
