@@ -11,8 +11,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=NO.+OF+PROFILE+VISITS+TILL+NOW:+ )
-  (AUTO-COUNTING)
+![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VISITS:+ )
+[![Website](https://img.shields.io/website?label=rajspeaks.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajspeaks.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itsrajdeepdas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=itsrajdeepdas)
+  
 <br><br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -57,8 +59,8 @@ Trying to upgrade myself daily with new skills!
 ---------------------------------------------------------------------------------------
 
 <h3>Education: </h3>
-
-Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)
+<li>
+  <ol type="circle"> Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)</ol>
 <br>
 Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
  
