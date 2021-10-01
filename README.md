@@ -47,6 +47,8 @@
 
 
 <h2>About me:</h2>
+ <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
+
 
 A Technophile Geeky Nerd!<br>
 Focused on learning Web Developing, especially fervent of Designing.
@@ -64,13 +66,11 @@ Graduated in Bachelor of Computer Application from Netaji Subhash Engineering Co
 <br>
 Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
 
+<br>
 <center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
 <br>
 
-<br>
-<p align="center">
- <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px>
- </p>
+
 
  [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
  
@@ -120,9 +120,10 @@ Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/Sh
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/78163908.jpg" height="250" width="200">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/spidey.jpg" height="250" width="200">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/unnamed.jpg" height="250" width="200">
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/78163908.jpg" height="200" width="150">
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/logan.jpg" height="200" width="150">
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/spidey.jpg" height="200" width="150">
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/unnamed.jpg" height="200" width="150">
 
  </p>
   <p align="center"><h3> Check out my contributions </h3></p> 
