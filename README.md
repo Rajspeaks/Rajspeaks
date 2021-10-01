@@ -43,9 +43,6 @@
 <p align = "center"> <h4> A Confused Coder! </h4></p>
 
 
-<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = 150px width = 150px></p> 
-
-
 <h2>About me:</h2>
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
 
@@ -58,6 +55,8 @@ An InfoSec & Network-Security Enthusiast, Cloud-DevOps practitioner & an ardent 
 A hobbyist Technical blogger!!
 <br>
 Trying to upgrade myself daily with new skills!
+<br>
+<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = 150px width = 150px></p> 
 
 ---------------------------------------------------------------------------------------
 
@@ -66,7 +65,7 @@ Graduated in Bachelor of Computer Application from Netaji Subhash Engineering Co
 <br>
 Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
 
-<br>
+<br><br>
 <center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
 <br>
 
