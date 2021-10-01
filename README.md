@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VISITS:+ )
 <br>
-[![Website](https://img.shields.io/website?label=rajspeaks.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajspeaks.github.io)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajspeaks.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsrajdeepdas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=itsrajdeepdas)
   
 <br><br>
@@ -69,32 +69,29 @@ Trying to upgrade myself daily with new skills!
 <center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
 <br>
 
-Tech-blog<code><a href="https://thetechlearner.wordpress.com"> TheTechLearner </a> </code> <br>
-Infosec <code><a href="hackitalki.home.blog"> HackiTalki </a></code>
+
 
 <br>
 <p align="center">
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px>
  </p>
- <li>
-  <ol>
- [![Website](https://img.shields.io/website?label=My Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
-  </ol>
- <ol>
+
+ [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
+ 
   [![Website](https://img.shields.io/website?label=Certification/Achievements&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements)
 
+  [![Website](https://img.shields.io/website?label=Web-resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajdeepdascv.netlify.app)
 
- <ol>
-   Check out my Web-Resume: <a href="https://rajdeepdascv.netlify.app" class="button big"> <b>Rajdeep Das</b></a> 
-   </ol>
- <ol>
-   Have a look at my <a href="https://iamrajdeep.wordpress.com" class="button big"> <b>Personal blog </b></a> 
-   </ol>
- <ol>
-   My <a href="https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e" class="button big"> <b> QwikLabs Profile on Google Cloud Skill Badges<b></a>
-   </ol>
+  [![Website](https://img.shields.io/website?label=Personal-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://iamrajdeep.wordpress.com)
+
+  [![Website](https://img.shields.io/website?label=Qwiklabs-profile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e)
+
+   <br>
+   In  addition:
+   <br>
+    [![Website](https://img.shields.io/website?label=Tech-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thetechlearner.wordpress.com)
+    [![Website](https://img.shields.io/website?label=Qwiklabs-profile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](hackitalki.home.blog)
  
-   </li>
    
  # Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
  
