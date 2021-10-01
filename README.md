@@ -62,7 +62,6 @@ Trying to upgrade myself daily with new skills!
 <h3>Education: </h3>
 <li>
   <ol type="circle"> Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)</ol>
-<br>
 <ol type="circle">Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022) </ol>
 
   </li>
@@ -78,20 +77,20 @@ Infosec <code><a href="hackitalki.home.blog"> HackiTalki </a></code>
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px>
  </p>
  <li>
-  <ol type="bullet">
+  <ol>
  [![Website](https://img.shields.io/website?label=My Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
   </ol>
- <ol type="bullet">
+ <ol>
   [![Website](https://img.shields.io/website?label=Certification/Achievements&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements)
 
 
- <ol type="bullet">
+ <ol>
    Check out my Web-Resume: <a href="https://rajdeepdascv.netlify.app" class="button big"> <b>Rajdeep Das</b></a> 
    </ol>
- <ol type="bullet">
+ <ol>
    Have a look at my <a href="https://iamrajdeep.wordpress.com" class="button big"> <b>Personal blog </b></a> 
    </ol>
- <ol type="bullet">
+ <ol>
    My <a href="https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e" class="button big"> <b> QwikLabs Profile on Google Cloud Skill Badges<b></a>
    </ol>
  
