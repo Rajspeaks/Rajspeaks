@@ -28,6 +28,7 @@
 <br>
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
 <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajspeaks&theme=vue-dark&hide_border=true&fire=DDDD4B)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
