@@ -67,28 +67,40 @@
   class Rajdeep:
   def skills():
     #My technical skills 
-    print('🚀 Web Development- Especially Designing Web,\
-              Cyber Security- Especially Network Security,\
-              Cloud Computing- Especially Dev-Ops Practitioner,\
-              Machine Learning- Beginner but interested in Natural Language Processing,\')
+    print('🖱 Web Development
+                       - Especially Designing Web,\
+              Cyber Security
+                       - Especially Network Security,\
+              Cloud Computing
+                       - Especially Dev-Ops Practitioner,\
+              Machine Learning
+                       - Interested in Natural Language Processing,\')
   
   def Qualification():
     #About my Educational/Qualification status
-    print('📚 Completed my 10th (General) & 12th (Science stream) standards from Jadavpur Vidyapith (2014-2016), 
-              Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College (2016-2019),
-              Pursuing Master of Computer Application from Heritage Institute of Tcehnology (2019-present)\')
+    print('📚 Completed my 10th & 12th (Science) standards from 
+                         - Jadavpur Vidyapith (2014-2016), 
+              Graduated in Bachelor of Computer Application from 
+                         - Netaji Subhash Engineering College (2016-2019),
+              Pursuing Master of Computer Application from 
+                         - Heritage Institute of Tcehnology (2019-present)\')
   
   def interests():
     #My interests
-    print(' Blogging, 📸 Photography, Reading Detective story books, Science-friction movies,')
+    print('👨‍💻 Blogging, 📸 Photography,
+           📖 Reading story books, 
+           🎬 Science-friction movies,')
   
   def CurrentStatus():
     #About my current work status
-    print('📝 Actively looking for opportunities to work in the real life project,
-              Trying to upgrading myself with new skills\')
+    print('📝 Actively looking for opportunities 
+              to work in the real life project,
+              Trying to upgrading myself 
+              with new skills\')
   
   def funFact():
-    print('⚡️ I love  memes & jokes! But my own jokes are too lame to share with you!!!!')
+    print('⚡️ I love  memes & jokes!
+              But my own jokes are too lame to share with you!!!!')
   
            
 Rajdeep.skills()
