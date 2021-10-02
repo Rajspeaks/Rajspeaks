@@ -10,7 +10,7 @@
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=16A980&size=36&lines=A+Technology+Enthusiast;Exploring+the+Code-Verse;A+madly+no-mad+Geek;A+Confused+coder;Learning+%26+upgrading+myself;Support+me!+Encourage+me!;Bless+me!+Suggest+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=16A980&size=33&lines=Technology+Enthusiast;Exploring+Code-Verse;Madly+no-mad+Geek;Confused+coder;Upgrading+myself;Support+me!;Encourage+me!;Bless+me!Suggest+me!)](https://git.io/typing-svg)
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VIEWS:+ )
