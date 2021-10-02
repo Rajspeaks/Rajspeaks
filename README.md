@@ -10,7 +10,7 @@
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=16A980&size=33&lines=Technology+Enthusiast;Exploring+Code-Verse;Madly+no-mad+Geek;Confused+coder;Upgrading+myself;Support+me!;Encourage+me!;Bless+me!Suggest+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=16A980&size=33&lines=Technology+Enthusiast;Exploring+Code-Verse;Madly+no-mad+Geek;Confused+coder;Upgrading+myself;Support+me!;Encourage+me!;Bless+me!)](https://git.io/typing-svg)
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VIEWS:+ )
@@ -56,36 +56,54 @@
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/7.jpeg" height=100 width=100> &nbsp;
  </p>
 
-<p align= "center"> <h3>Meet a Madly NoMad Explorer!</h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'>  </p>
+<p align= "center"> <h3> Learning code in a Tortoise Shell! Any dev-advice is appreciable, even if you have some open source jokes!!</h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'>  </p>
 
 
 
 <h2>About me:</h2>
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
 
+<code>
+  class Rajdeep:
+  def skills():
+    #My technical skills 
+    print('🚀 Web Development- Especially Designing Web,\
+              Cyber Security- Especially Network Security,\
+              Cloud Computing- Especially Dev-Ops Practitioner,\
+              Machine Learning- Beginner but interested in Natural Language Processing,\')
+  
+  def Qualification():
+    #About my Educational/Qualification status
+    print('📚 Completed my 10th (General) & 12th (Science stream) standards from Jadavpur Vidyapith (2014-2016), 
+              Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College (2016-2019),
+              Pursuing Master of Computer Application from Heritage Institute of Tcehnology (2019-present)\')
+  
+  def interests():
+    #My interests
+    print(' Blogging, 📸 Photography, Reading Detective story books, Science-friction movies,')
+  
+  def CurrentStatus():
+    #About my current work status
+    print('📝 Actively looking for opportunities to work in the real life project,
+              Trying to upgrading myself with new skills\')
+  
+  def funFact():
+    print('⚡️ I love  memes & jokes! But my own jokes are too lame to share with you!!!!')
+  
+           
+Rajdeep.skills()
+Rajdeep.interests()
+Rajdeep.CurrentStatus()
+Rajdeep.funFact()
 
-A Technophile Fervant guy <br>
-Focused on learning Web Developing, especially in love with Designing web.
+</code>
 <br>
-An InfoSec & Network-Security enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
+<center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
 <br>
-A hobbyist Technical blogger!!
-<br>
-Trying to upgrade myself daily with new skills!
 <br>
 <p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = 150px width = 150px></p> 
 
 ---------------------------------------------------------------------------------------
-
-<h3>Education:📚 </h3>
-Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)
-<br>
-Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
-<br><br>
-<center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
-<br>
-
-
 
   [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
  
