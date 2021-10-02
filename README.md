@@ -28,7 +28,7 @@
 <br>
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
 <br>
- https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark
+[![trophy]https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
