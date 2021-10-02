@@ -45,7 +45,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
 <br>
-
+<h3>Confused Coder</h3>
 <p align="center">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/4.jpeg" height=100 width=100> &nbsp;
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/6.jpeg" height=100 width=100> &nbsp;
@@ -56,7 +56,7 @@
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/7.jpeg" height=100 width=100> &nbsp;
  </p>
 
-<p align= "center"> <h3> Learning code in a Tortoise Shell! Any dev-advice is appreciable, even if you have some open source jokes!!</h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'>  </p>
+<p align= "center"> <h3> Learning code inside Tortoise Shell! Any dev-advice is appreciable, even if you have some open source jokes!!</h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'>  </p>
 
 
 
