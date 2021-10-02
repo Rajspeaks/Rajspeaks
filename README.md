@@ -27,7 +27,9 @@
 &nbsp; &nbsp;
 <br>
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
-  
+<br>
+ https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/4.jpeg" height=100 width=100> &nbsp;
