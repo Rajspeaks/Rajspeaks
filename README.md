@@ -21,15 +21,20 @@
 <br><br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>GitHub Stats:</h3> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
+<h3>GitHub Stats 📊:</h3> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 
 [![Rajdeep's Commitments on GitHub ](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
 <br>
-[![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
+<h2>Activity Graph📈</h2>
 <br>
+
+[![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
+
+<br>
+
 <h2>🔥Streaks</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajspeaks&theme=vue-dark&hide_border=true&fire=DDDD4B)](https://git.io/streak-stats)
@@ -41,7 +46,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
 <br>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/4.jpeg" height=100 width=100> &nbsp;
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/6.jpeg" height=100 width=100> &nbsp;
@@ -60,7 +65,7 @@
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
 
 
-A Technophile Fervant <br>
+A Technophile Fervant guy <br>
 Focused on learning Web Developing, especially in love with Designing web.
 <br>
 An InfoSec & Network-Security enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
@@ -73,7 +78,7 @@ Trying to upgrade myself daily with new skills!
 
 ---------------------------------------------------------------------------------------
 
-<h3>Education: </h3>
+<h3>Education:📚 </h3>
 Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)
 <br>
 Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
@@ -83,7 +88,7 @@ Pursuing Master of Computer Application from Heritage Institute of Technology, W
 
 
 
- [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
+  [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
  
   [![Website](https://img.shields.io/website?label=Certifications/Achievements&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements)
 
@@ -139,7 +144,8 @@ Pursuing Master of Computer Application from Heritage Institute of Technology, W
 
  </p>
   <p align="center"><h4> Check out my contributions </h4></p>
-  
+<br>
+  Feel free to reach me
   &copy; Made by Rajdeep Das
   
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/footer.png">
