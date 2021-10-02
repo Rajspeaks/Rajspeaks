@@ -94,13 +94,13 @@
   def CurrentStatus():
     #About my current work status
     print('📝 Actively looking for opportunities 
-              to work in the real life project,
+              - to work in the real life projects,
               Trying to upgrading myself 
-              with new skills\')
+              - with new skills\')
   
   def funFact():
     print('⚡️ I love  memes & jokes!
-              But my own jokes are too lame to share with you!!!!')
+              - But my own jokes are too lame to share with you!!!!')
   
            
 Rajdeep.skills()
