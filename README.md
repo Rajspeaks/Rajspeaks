@@ -109,7 +109,6 @@ Pursuing Master of Computer Application from Heritage Institute of Technology, W
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>Connect with me on:</h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <code><a href="https://twitter.com/itsrajdeepdas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></code>&nbsp;
 <code><a href="https://linkedin.com/in/itsrajdeepdas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>&nbsp;
@@ -127,8 +126,7 @@ Pursuing Master of Computer Application from Heritage Institute of Technology, W
  <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/unnamed.jpg" height="100" width="100">
 
  </p>
-  <p align="center"><h4> Check out my contributions </h4></p> 
-  ----------------------------------------------------------------------------------------------------------------------
+  <p align="center"><h4> Check out my contributions </h4></p>
   
   &copy; Made by Rajdeep Das
   
