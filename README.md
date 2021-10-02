@@ -31,11 +31,16 @@
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
 <br>
 <h2>🔥Streaks</h2>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajspeaks&theme=vue-dark&hide_border=true&fire=DDDD4B)](https://git.io/streak-stats)
+
 <br>
+
 <h2>Github Stat-Trophies🛡</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
+<br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/4.jpeg" height=100 width=100> &nbsp;
