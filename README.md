@@ -10,8 +10,10 @@
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=16A980&size=36&lines=A+Technology+Enthusiast;Exploring+the+Code-Verse;A+madly+no-mad+Geek;A+Confused+coder;Learning+%26+upgrading+myself;Support+me!+Encourage+me!;Bless+me!+Suggest+me!)](https://git.io/typing-svg)
+<br>
 
-![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VISITS:+ )
+![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VIEWS:+ )
 <br>
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajspeaks.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsrajdeepdas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=itsrajdeepdas)
@@ -28,7 +30,10 @@
 <br>
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
 <br>
+<h2>🔥Streaks</h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajspeaks&theme=vue-dark&hide_border=true&fire=DDDD4B)](https://git.io/streak-stats)
+<br>
+<h2>Github Stat-Trophies🛡</h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -50,10 +55,10 @@
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
 
 
-A Technophile Geeky Nerd!<br>
-Focused on learning Web Developing, especially fervent of Designing.
+A Technophile Fervant <br>
+Focused on learning Web Developing, especially in love with Designing web.
 <br>
-An InfoSec & Network-Security Enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
+An InfoSec & Network-Security enthusiast, Cloud-DevOps practitioner & an ardent of Machine Learning!
 <br>
 A hobbyist Technical blogger!!
 <br>
@@ -67,7 +72,6 @@ Trying to upgrade myself daily with new skills!
 Graduated in Bachelor of Computer Application from Netaji Subhash Engineering College, West Bengal, India.(2016-2019)
 <br>
 Pursuing Master of Computer Application from Heritage Institute of Technology, West Bengal, India.(2019-2022)
-
 <br><br>
 <center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
 <br>
