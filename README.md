@@ -172,7 +172,8 @@ Rajdeep.funFact()
  </p>
   <p align="center"><h4> Check out my contributions </h4></p>
 <br>
-  Feel free to reach me
-  &copy; Made by Rajdeep Das
+  Feel free to reach me ✌
+  <br>
+&copy; Rajdeep Das | Made with ❤ @GitHub
   
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/footer.png">
