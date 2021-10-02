@@ -40,7 +40,7 @@
  </p>
 
 <p align= "center"> <h3>Meet a Madly NoMad Explorer!</h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'>  </p>
-<p align = "center"> <h4> A Confused Coder! </h4></p>
+
 
 
 <h2>About me:</h2>
@@ -118,11 +118,12 @@ Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/Sh
 <code><a href="https://iamrajdeep.wordpress.com"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a></code>&nbsp;
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h4>Marvel fandom!! </h4>
 <p align="center">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/78163908.jpg" height="200" width="150">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/logan.jpg" height="200" width="150">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/spidey.jpg" height="200" width="150">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/unnamed.jpg" height="200" width="150">
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/78163908.jpg" height="100" width="100">
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/logan.jpg" height="100" width="100">
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/spidey.jpg" height="100" width="100">
+ <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/unnamed.jpg" height="100" width="100">
 
  </p>
   <p align="center"><h3> Check out my contributions </h3></p> 
