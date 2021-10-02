@@ -97,9 +97,7 @@ Rajdeep.CurrentStatus()
 Rajdeep.funFact()
 
 ```
-<br>
-<center><img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270></center>
-<br>
+&nbsp;<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270>
 <br>
 <p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = 150px width = 150px></p> 
 
