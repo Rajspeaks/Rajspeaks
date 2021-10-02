@@ -12,14 +12,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=16A980&size=36&lines=A+Technology+Enthusiast;Exploring+the+Code-Verse;A+madly+no-mad+Geek;A+Confused+coder;Learning+%26+upgrading+myself;Support+me!+Encourage+me!;Bless+me!+Suggest+me!)](https://git.io/typing-svg)
 <br>
-
+<br>
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VIEWS:+ )
 <br>
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajspeaks.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsrajdeepdas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=itsrajdeepdas)
   
-<br><br>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 
 <h3>GitHub Stats 📊:</h3> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 
