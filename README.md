@@ -122,13 +122,14 @@ Rajdeep.funFact()
 
 ```
 <br>
-<h2> List of contributed/mentored Open Spurce events:
-  1. <h3> GSSoC'20- Contributor</h3>
-  2. <h3> GSSoC'21- Mentor</h3>
-  3. <h3> GSWoC'21- Supervisor</h3>
-  4. <h3> SWoC'21-  Contributor</h3>
-  5. <h3> DWoC'20-  Contributor</h3>
-  6. <h3> Hacktoberfest'20- Contributor</h3>
+<h2> List of contributed/mentored Open Spurce events:</h2>
+  <br>
+  1. GSSoC'20- Contributor
+  2. GSSoC'21- Mentor
+  3. GSWoC'21- Supervisor
+  4. SWoC'21-  Contributor
+  5. DWoC'20-  Contributor
+  6. Hacktoberfest'20- Contributor
   
 <br>
   
