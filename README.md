@@ -168,8 +168,15 @@ Rajdeep.funFact()
 <img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=itsrajdeepdas&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 Feel free to reach me ✌
-  <br><br>
+  <br>
+  <br>
+  <br>
   <h2>Watch a 🐍 eating my contribution graph</h2>
 <p align="center">
   <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
