@@ -64,28 +64,28 @@
 
 <h2>About me:</h2>
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
-
+ <img align="right" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height="250px">
 ```python
   class Rajdeep:
   def skills():
     #My technical skills 
     print('🖱 Web Development
-                       - Especially Designing Web,\
+                - Especially Designing Web,\
               Cyber Security
-                       - Especially Network Security,\
+                - Especially Network Security,\
               Cloud Computing
-                       - Especially Dev-Ops Practitioner,\
+                - Especially Dev-Ops Practitioner,\
               Machine Learning
-                       - Interested in Natural Language Processing,\')
+                - Interested in Natural Language Processing,\')
   
   def Qualification():
     #About my Educational/Qualification status
     print('📚 Completed my 10th & 12th (Science) standards from 
-                         - Jadavpur Vidyapith (2014-2016), 
+                - Jadavpur Vidyapith (2014-2016), 
               Graduated in Bachelor of Computer Application from 
-                         - Netaji Subhash Engineering College (2016-2019),
+                - Netaji Subhash Engineering College (2016-2019),
               Pursuing Master of Computer Application from 
-                         - Heritage Institute of Tcehnology (2019-present)\')
+                - Heritage Institute of Tcehnology (2019-present)\')
   
   def interests():
     #My interests
@@ -111,7 +111,6 @@ Rajdeep.current_status()
 Rajdeep.funFact()
 
 ```
-&nbsp;<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height=250 width=270>
 <br>
 <p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height = 150px width = 150px></p> 
 
