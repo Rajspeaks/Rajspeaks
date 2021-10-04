@@ -45,6 +45,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
 <br>
+
+
 <h3>Confused Coder</h3>
 <p align="center">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/4.jpeg" height=100 width=100> &nbsp;
@@ -91,7 +93,7 @@
            📖 Reading story books, 
            🎬 Science-friction movies,')
   
-  def CurrentStatus():
+  def current_tatus():
     #About my current work status
     print('📝 Actively looking for opportunities 
               - to work in the real life projects,
@@ -105,7 +107,7 @@
            
 Rajdeep.skills()
 Rajdeep.interests()
-Rajdeep.CurrentStatus()
+Rajdeep.current_status()
 Rajdeep.funFact()
 
 ```
@@ -162,17 +164,11 @@ Rajdeep.funFact()
 <code><a href="https://iamrajdeep.wordpress.com"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a></code>&nbsp;
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h4>Marvel fandom!! </h4>
-<p align="center">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/78163908.jpg" height="100" width="100">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/logan.jpg" height="100" width="100">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/spidey.jpg" height="100" width="100">
- <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/unnamed.jpg" height="100" width="100">
-
- </p>
-  <p align="center"><h4> Check out my contributions </h4></p>
+<a href="https://github.com/Akshita_archer/github-readme-twitter">
+<img align="left" src="https://github-readme-twitter.gazf.vercel.app/api?id=itsrajdeepdas&layout=wide&show_reply=off&show_retweet=off" />
+</a>
 <br>
-  Feel free to reach me ✌
+Feel free to reach me ✌
   <br>
   <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
