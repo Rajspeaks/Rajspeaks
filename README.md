@@ -136,7 +136,11 @@ Rajdeep.funFact()
   <br>
   6. LGM-SoC'21- Contributor
   <br>
-  7. Hacktoberfest'20- Contributor
+  7. GGoS'20 - Contributor
+  <br>
+  8. IBM MainFrame - Contributor
+  <br>
+  9. Hacktoberfest'20- Contributor
   
 <br>
 <h2> Open Source badges </h2>
@@ -149,6 +153,8 @@ Rajdeep.funFact()
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/DWoC%20badge.jpg" height="120px" width="120px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/LGMsoc%20badge.jpeg" height="120px" width="120px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/hackto%20badge.jpeg" height="120px" width="120px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gfg%20badge.png" height="120px" width="120px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/ibm%20badge.jpeg" height="120px" width="120px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/redwoodjs%20%20badge.png" height="120px" width="120px">
 </p>
 <br>
