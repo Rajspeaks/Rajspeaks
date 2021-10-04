@@ -65,8 +65,6 @@
 <h2>About me:</h2>
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
  <img align="right" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height="250px"/>
- <br>
- <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height "150px" width="150px"></p> 
 
 
  
@@ -159,6 +157,8 @@ Rajdeep.funFact()
 <code><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>&nbsp;
 
+ <br>
+ <img align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height "150px" width="150px"></p> 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
