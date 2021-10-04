@@ -64,7 +64,7 @@
 
 <h2>About me:</h2>
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
- <img align="right" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height="250px"/>
+ <img align="right" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height="250px" width="150px"/>
 
 
  
@@ -75,22 +75,24 @@
   def skills():
     #My technical skills 
     print('🖱 Web Development
-                - Especially Designing Web,\
+               - Especially Designing Web,\
               Cyber Security
-                - Especially Network Security,\
+               - Especially Network Security,\
               Cloud Computing
-                - Especially Dev-Ops Practitioner,\
+               - Especially Dev-Ops Practitioner,\
               Machine Learning
-                - Interested in Natural Language Processing,\')
+               - Interested in Natural Language Processing,\
+        ')
   
   def Qualification():
     #About my Educational/Qualification status
-    print('📚 Completed my 10th & 12th (Science) standards from 
-                - Jadavpur Vidyapith (2014-2016), 
-              Graduated in Bachelor of Computer Application from 
-                - Netaji Subhash Engineering College (2016-2019),
-              Pursuing Master of Computer Application from 
-                - Heritage Institute of Tcehnology (2019-present)\')
+    print('📚 10th & 12th (Science) standards from 
+               - Jadavpur Vidyapith (2014-2016), 
+              Bachelor of Computer Application from 
+               - Netaji Subhash Engineering College (2016-2019),
+              Master of Computer Application from 
+               - Heritage Institute of Tcehnology (2019-present)\
+        ')
   
   def interests():
     #My interests
