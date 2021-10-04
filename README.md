@@ -141,9 +141,11 @@ Rajdeep.funFact()
   8. IBM MainFrame - Contributor
   <br>
   9. Hacktoberfest'20- Contributor
-  
+  <br>
+  10. RedWoodJS - Contributor
+  <br>
 <br>
-<h2> Open Source badges </h2>
+<h2> Earned Open Source badges </h2>
 <br>
 <p align="centre">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg" height="120px" width="120px">
