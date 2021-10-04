@@ -187,8 +187,9 @@ Rajdeep.funFact()
 <br>
 <br>
 <br>
-Feel free to reach me ✌
-  <br>
+<br>
+<br>
+<h3>Feel free to reach me ✌ </h3>
   <br>
   <br>
   <h2>Watch a 🐍 eating my contribution graph</h2>
