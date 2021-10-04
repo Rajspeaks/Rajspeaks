@@ -139,6 +139,7 @@ Rajdeep.funFact()
   7. Hacktoberfest'20- Contributor
   
 <br>
+<br>
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg", height="100px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20mentorbadge.jpeg", height="100px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gwoc%20badge.jpeg", height="100px">
