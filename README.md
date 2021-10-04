@@ -140,13 +140,9 @@ Rajdeep.funFact()
   
 <br>
 <br>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg", height="70px">&nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20mentorbadge.jpeg", height="70px">&nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gwoc%20badge.jpeg", height="70px">&nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Swoc%20badge.jpeg", height="70px">&nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/DWoC%20badge.jpg", height="70px">&nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/LGMsoc%20badge.jpeg", height="70px">&nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/hackto%20badge.jpeg", height="70px"&nbsp;
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg", height="120px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20mentorbadge.jpeg", height="120px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gwoc%20badge.jpeg", height="120px">
 <br>
 
 
