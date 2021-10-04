@@ -84,7 +84,7 @@
                - Interested in Natural Language Processing,\
         ')
   
-  def Qualification():
+  def qualification():
     #About my Educational/Qualification status
     print('📚 10th & 12th (Science) standards from 
                - Jadavpur Vidyapith (2014-2016), 
@@ -113,6 +113,7 @@
   
            
 Rajdeep.skills()
+Rajdeep.qualification()
 Rajdeep.interests()
 Rajdeep.current_status()
 Rajdeep.funFact()
