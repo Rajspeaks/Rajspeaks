@@ -64,7 +64,7 @@
 
 <h2>About me:</h2>
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
- <img align="right" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height="250px" width="150px"/>
+ <img align="right" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height="250px" width="250px"/>
 
 
  
