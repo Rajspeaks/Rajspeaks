@@ -142,14 +142,14 @@ Rajdeep.funFact()
 <h2> Open Source badges </h2>
 --------------------------------------------------------------------------------------------------------------
 <br>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg", height="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20mentorbadge.jpeg", height="120px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg" height="120px" width="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20mentorbadge.jpeg" height="120px" width="100px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gwoc%20badge.jpeg", height="120px">
 <br>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Swoc%20badge.jpeg", height="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/DWoC%20badge.jpg", height="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/LGMsoc%20badge.jpeg", height="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/hackto%20badge.jpeg", height="120px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Swoc%20badge.jpeg" height="120px" width="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/DWoC%20badge.jpg" height="120px" width="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/LGMsoc%20badge.jpeg" height="120px" width="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/hackto%20badge.jpeg" height="120px" width="100px">
 <br>
 
   
