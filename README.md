@@ -125,14 +125,31 @@ Rajdeep.funFact()
 <h2> List of contributed/mentored Open Spurce events:</h2>
   <br>
   1. GSSoC'20- Contributor
+  <br>
   2. GSSoC'21- Mentor
+  <br>
   3. GSWoC'21- Supervisor
+  <br>
   4. SWoC'21-  Contributor
-  7. DWoC'20-  Contributor
-  8. LSM-SoC'21- Contributor
-  9. Hacktoberfest'20- Contributor
+  <br>
+  5. DWoC'20-  Contributor
+  <br>
+  6. LGM-SoC'21- Contributor
+  <br>
+  7. Hacktoberfest'20- Contributor
   
 <br>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg", height="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20mentorbadge.jpeg", height="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gwoc%20badge.jpeg", height="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Swoc%20badge.jpeg", height="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/DWoC%20badge.jpg", height="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/LGMsoc%20badge.jpeg", height="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/hackto%20badge.jpeg", height="100px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg", height="100px">
+<br>
+
+
   
 ---------------------------------------------------------------------------------------
 
