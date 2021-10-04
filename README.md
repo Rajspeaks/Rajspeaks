@@ -174,6 +174,10 @@ Rajdeep.funFact()
 <br>
   Feel free to reach me ✌
   <br>
+  <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
+</p>
 &copy; Rajdeep Das | Made with ❤ @GitHub
   
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/footer.png">
