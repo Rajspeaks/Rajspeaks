@@ -169,8 +169,8 @@ Rajdeep.funFact()
 </a>
 <br>
 Feel free to reach me ✌
-  <br>
-  <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+  <br><br>
+  <h2>Watch a 🐍 eating my contribution graph</h2>
 <p align="center">
   <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
 </p>
