@@ -1,5 +1,6 @@
-<img align="center" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Git%20Rajdeep.gif">
-
+<p align="center">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Git%20Rajdeep.gif">
+</p>
 
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/5.jpeg" height=90 width=90>
