@@ -61,6 +61,11 @@
 
 <p align= "center"> <h3> Learning code inside Tortoise Shell! Any dev-advice is appreciable, even if you have some open source jokes!!</h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'>  </p>
 
+<br>
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 <h2>About me:</h2>
