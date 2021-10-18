@@ -156,6 +156,7 @@ Rajdeep.funFact()
 <p align="centre">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg" height="120px" width="120px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20mentorbadge.jpeg" height="120px" width="120px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Uplift%20Mentor%20badge.jpg" height="120px" width="120px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gwoc%20badge.jpeg", height="120px" width="120px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Swoc%20badge.jpeg" height="120px" width="120px">
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/DWoC%20badge.jpg" height="120px" width="120px">
