@@ -130,26 +130,18 @@ Rajdeep.funFact()
 <br>
 <h2> List of contributed/mentored Open Spurce events:</h2>
   <br>
-  1. GSSoC'20- Contributor
-  <br>
-  2. GSSoC'21- Mentor
-  <br>
-  3. GSWoC'21- Supervisor
-  <br>
-  4. SWoC'21-  Contributor
-  <br>
-  5. DWoC'20-  Contributor
-  <br>
-  6. LGM-SoC'21- Contributor
-  <br>
-  7. GGoS'20 - Contributor
-  <br>
-  8. IBM MainFrame - Contributor
-  <br>
-  9. Hacktoberfest'20- Contributor
-  <br>
-  10. RedWoodJS - Contributor
-  <br>
+  1. GSSoC'20- Contributor<br>
+  2. GSSoC'21- Mentor<br>
+  3. The Uplift Project 21 by Girlscript Foundation- Mentor <br>
+  4. GSWoC'21- Supervisor<br>
+  5. SWoC'21-  Contributor<br>
+  6. DWoC'20-  Contributor<br>
+  7. LGM-SoC'21- Contributor<br>
+  8. GGoS'20 - Contributor<br>
+  9. IBM MainFrame - Contributor<br>
+  10. Hacktoberfest'20- Contributor<br>
+  11. RedWoodJS - Contributor<br>
+
 <br>
 <h2> Earned Open Source badges </h2>
 <br>
