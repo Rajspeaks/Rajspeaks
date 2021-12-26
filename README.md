@@ -48,17 +48,6 @@
 <br>
 
 
-<h3>Confused Coder</h3>
-<p align="center">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/4.jpeg" height=100 width=100> &nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/6.jpeg" height=100 width=100> &nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/1.jpeg" height=100 width=100> &nbsp;
-<br>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/2.jpeg" height=100 width=100> &nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/3.jpeg" height=100 width=100> &nbsp;
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/7.jpeg" height=100 width=100> &nbsp;
- </p>
-
 <p align= "center"> <h3> Learning code inside Tortoise Shell! Any dev-advice is appreciable, even if you have some open source jokes!!</h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'>  </p>
 
 <br>
@@ -143,23 +132,6 @@ Rajdeep.funFact()
   11. RedWoodJS - Contributor<br>
 
 <br>
-<h2> Earned Open Source badges </h2>
-<br>
-<p align="centre">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20conbadge.jpeg" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gssoc%20mentorbadge.jpeg" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Uplift%20Mentor%20badge.jpg" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gwoc%20badge.jpeg", height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Swoc%20badge.jpeg" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/DWoC%20badge.jpg" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/LGMsoc%20badge.jpeg" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/hackto%20badge.jpeg" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/Gfg%20badge.png" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/ibm%20badge.jpeg" height="120px" width="120px">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/redwoodjs%20%20badge.png" height="120px" width="120px">
-</p>
-<br>
-
   
 --------------------------------------------------------------------------------------------------------------------------
 
