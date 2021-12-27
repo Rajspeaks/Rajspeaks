@@ -4,8 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/5.jpeg" height=90 width=90>
-### <a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:
-
+<h2> <a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist: </h2>
 
 
 # Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
@@ -117,8 +116,8 @@ Rajdeep.funFact()
 
 
 ```
-<br>
-### List of contributed/mentored Open Spurce events:
+
+### List of contributed/mentored Open Source events:
   
   - GSSoC'18- Contributor
   - GSSoC'19- Project Admin & Mentor
@@ -210,7 +209,7 @@ Rajdeep.funFact()
   <br>
   <br>
   
-  ### Watch a 🐍 eating my contribution graph
+  <h3> Watch a 🐍 eating my contribution graph </h3>
   
 <p align="center">
   <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
