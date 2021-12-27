@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Animated/5.jpeg" height=90 width=90>
-###<a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:
+### <a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist:
 
 
 
@@ -41,7 +41,7 @@
 
 <br>
 
-<h2>Github Stat-Trophies🛡</h2>
+### Github Stat-Trophies🛡
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
@@ -118,8 +118,8 @@ Rajdeep.funFact()
 
 ```
 <br>
-### List of contributed/mentored Open Spurce events:</h2>
-  <br>
+### List of contributed/mentored Open Spurce events:
+  
   - GSSoC'18- Contributor
   - GSSoC'19- Project Admin & Mentor
   - GSSoC'20- Contributor
@@ -139,7 +139,7 @@ Rajdeep.funFact()
   - Hacktoberfest'20 & 21- Contributor & Mentor
   - RedWoodJS'20 - Contributor
 
-<br>
+
   
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -209,10 +209,13 @@ Rajdeep.funFact()
 <h3>Feel free to reach me ✌ </h3>
   <br>
   <br>
+  
   ### Watch a 🐍 eating my contribution graph
+  
 <p align="center">
   <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
 </p>
+
 &copy; Rajdeep Das | Made with ❤ @GitHub
   
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/footer.png">
