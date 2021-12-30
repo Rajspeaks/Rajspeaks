@@ -62,7 +62,7 @@
  <img align="right" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height="220px" width="250px"/>
 
 
- **Web-Dev, Infosec, DevOps, ML enthusiast.**
+
  
  
 ```python
