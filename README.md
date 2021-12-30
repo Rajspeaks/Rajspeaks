@@ -63,9 +63,9 @@
 
 
 
-* Web-Dev, Infosec, Cloud & ML enthusiast.*
 
  
+
  
 ```python
   class Rajdeep:
