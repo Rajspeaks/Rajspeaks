@@ -62,7 +62,7 @@
  <img align="right" src="https://github.com/Rajspeaks/Rajspeaks/blob/main/tenor.gif" height="220px" width="250px"/>
 
 
- 
+ **Web-Dev, Infosec, DevOps, ML enthusiast.**
  
  
 ```python
@@ -117,29 +117,6 @@ Rajdeep.funFact()
 
 ```
 
-### List of contributed/mentored Open Source events:
-  
-  - GSSoC'18- Contributor
-  - GSSoC'19- Project Admin & Mentor
-  - GSSoC'20- Contributor
-  - GSSoC'21- Mentor
-  - GWoC'21- Supervisor
-  - SWoC'21-  Contributor
-  - DWoC'20-  Contributor
-  - KWoC'20 - Contributor
-  - CWoC'21- Contributor
-  - JWoC'21- Contributor
-  - Delta WoC'20- Contributor
-  - NWoC'20- Contributor
-  - EduAlgo WoC'20- Contributor
-  - LGM-SoC'21- Contributor
-  - GGoS'20 - Contributor
-  - IBM MainFrame - Contributor
-  - Hacktoberfest'20 & 21- Contributor & Mentor
-  - RedWoodJS'20 - Contributor
-
-
-  
 --------------------------------------------------------------------------------------------------------------------------
 
   [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
