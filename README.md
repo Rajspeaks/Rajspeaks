@@ -44,18 +44,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
-<br>
-
-
-<p align= "center"> <h3> Learning code inside Tortoise Shell! Any dev-advice is appreciable, even if you have some open source jokes!!</h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'>  </p>
-
-<br>
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
 ## About me:
 
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
@@ -109,8 +97,6 @@ Rajdeep.interests()
 Rajdeep.current_status()
 Rajdeep.funFact()
 
-
-
 ```
 
 --------------------------------------------------------------------------------------------------------------------------
@@ -149,8 +135,6 @@ Rajdeep.funFact()
 <code><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>&nbsp;
 
- <br>
- <img align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height "150px" width="150px"></p> 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -178,11 +162,10 @@ Rajdeep.funFact()
 <br>
 <br>
 <br>
-<h3>Feel free to reach me ✌ </h3>
-  <br>
-  <br>
+<br>
+<br>
   
-  <h3> Watch a 🐍 eating my contribution graph </h3>
+  <h3> Watch a 🐍 eating my contribution graph </h3> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '50px'>
   
 <p align="center">
   <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
