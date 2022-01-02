@@ -65,7 +65,7 @@
   
   def qualification():
     #About my Educational/Qualification status
-    print('📚 10th & 12th (Science) standards from 
+    print('📚 10th & 12th standards from 
                - Jadavpur Vidyapith,\
               Bachelor of Computer Application from  
                - Netaji Subhash Engineering College,\
