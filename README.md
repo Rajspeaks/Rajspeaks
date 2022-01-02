@@ -66,29 +66,33 @@
   def qualification():
     #About my Educational/Qualification status
     print('📚 10th & 12th (Science) standards from 
-               - Jadavpur Vidyapith (2014-2016), 
-              Bachelor of Computer Application from 
-               - Netaji Subhash Engineering College (2016-2019),
+               - Jadavpur Vidyapith,\
+              Bachelor of Computer Application from  
+               - Netaji Subhash Engineering College,\
               Master of Computer Application from 
-               - Heritage Institute of Tcehnology (2019-present)\
+               - Heritage Institute of Tcehnology\
         ')
   
   def interests():
     #My interests
-    print('👨‍💻 Blogging, 📸 Photography,
-           📖 Reading story books, 
-           🎬 Science-friction movies,')
+    print('👨‍💻 Blogging, 📸 Photography,\
+           📖 Reading story books, \
+           🎬 Science-friction movies,\
+           
+         ')
   
   def current_tatus():
     #About my current work status
     print('📝 Actively looking for opportunities 
-              - to work in the real life projects,
+              - to work in the real life projects,\
               Trying to upgrading myself 
               - with new skills\')
   
   def funFact():
     print('⚡️ I love  memes & jokes!
-              - But my own jokes are too lame to share with you!!!!')
+              - But my own jokes are too lame to share with you!!!! \
+              
+          ')
   
            
 Rajdeep.skills()
