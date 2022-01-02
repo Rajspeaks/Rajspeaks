@@ -50,31 +50,27 @@
  
  
 ```python
+
   class Rajdeep:
   def skills():
     #Technical skills 
     print('🖱 Web Development, espeacially Designing enthusiast\
               Cyber Security, especially Network Security,\
               Cloud Computing, especially Dev-Ops Practitioner,\
-              Machine Learning, Interested in Natural Language Processing,\
-        ')
+              Machine Learning, Interested in Natural Language Processing,')
   
   def qualification():
     #Qualification
     print('📚 10th & 12th standards from Jadavpur Vidyapith,\
               Bachelor of Computer Application from Netaji Subhash Engineering College,\
-              Master of Computer Application from Heritage Institute of Tcehnology\
-        ')
+              Master of Computer Application from Heritage Institute of Tcehnology\')
   
   def interests():
     #Interests
     print('👨‍💻 Blogging, 📸 Photography,\
            📖 Reading story books, \
-           🎬 Science-friction movies,\
-           
-         ')
+           🎬 Science-friction movies,\')
   
-           
 Rajdeep.skills()
 Rajdeep.qualification()
 Rajdeep.interests()
