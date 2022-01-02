@@ -52,54 +52,32 @@
 ```python
   class Rajdeep:
   def skills():
-    #My technical skills 
-    print('🖱 Web Development
-               - Especially Designing Web,\
-              Cyber Security
-               - Especially Network Security,\
-              Cloud Computing
-               - Especially Dev-Ops Practitioner,\
-              Machine Learning
-               - Interested in Natural Language Processing,\
+    #Technical skills 
+    print('🖱 Web Development, espeacially Designing enthusiast\
+              Cyber Security, especially Network Security,\
+              Cloud Computing, especially Dev-Ops Practitioner,\
+              Machine Learning, Interested in Natural Language Processing,\
         ')
   
   def qualification():
-    #About my Educational/Qualification status
-    print('📚 10th & 12th standards from 
-               - Jadavpur Vidyapith,\
-              Bachelor of Computer Application from  
-               - Netaji Subhash Engineering College,\
-              Master of Computer Application from 
-               - Heritage Institute of Tcehnology\
+    #Qualification
+    print('📚 10th & 12th standards from Jadavpur Vidyapith,\
+              Bachelor of Computer Application from Netaji Subhash Engineering College,\
+              Master of Computer Application from Heritage Institute of Tcehnology\
         ')
   
   def interests():
-    #My interests
+    #Interests
     print('👨‍💻 Blogging, 📸 Photography,\
            📖 Reading story books, \
            🎬 Science-friction movies,\
            
          ')
   
-  def current_tatus():
-    #About my current work status
-    print('📝 Actively looking for opportunities 
-              - to work in the real life projects,\
-              Trying to upgrading myself 
-              - with new skills\')
-  
-  def funFact():
-    print('⚡️ I love  memes & jokes!
-              - But my own jokes are too lame to share with you!!!! \
-              
-          ')
-  
            
 Rajdeep.skills()
 Rajdeep.qualification()
 Rajdeep.interests()
-Rajdeep.current_status()
-Rajdeep.funFact()
 
 ```
 
