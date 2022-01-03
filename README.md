@@ -48,6 +48,10 @@
 
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
  
+ - An Artistic Technophile with eager to learn mind & having an extra layer of creativity.
+ - I'm a designer more than a coder!
+ - Exploring all my INABILITIES! So that I can fork them to modify, can make pull requests & finally with God's bless I can marge the changes into my ABILITIES!
+ - 
  
 ```python
 
@@ -56,11 +60,10 @@
     print('🖱 Web Development, especially Designing enthusiast\
               Cyber Security, especially Network Security,\
               Cloud Computing, especially Dev-Ops Practitioner,\
-              Machine Learning, Interested in Natural Language Processing')
+              Machine Learning, Interested in Natural Language Processing') #I'm not expert in all of these but 
   
   def qualification():
-    print('📚 10th & 12th standards from Jadavpur Vidyapith,\
-              Bachelor of Computer Application from Netaji Subhash Engineering College,\
+    print('📚 Bachelor of Computer Application from Netaji Subhash Engineering College,\
               Master of Computer Application from Heritage Institute of Tcehnology')
   
   def interests():
@@ -76,23 +79,14 @@ Rajdeep.interests()
 
 --------------------------------------------------------------------------------------------------------------------------
 
-  [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
- 
-  [![Website](https://img.shields.io/website?label=Certifications/Achievements&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements)
-
-  [![Website](https://img.shields.io/website?label=Web-resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajdeepdascv.netlify.app)
-
-  [![Website](https://img.shields.io/website?label=Personal-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://iamrajdeep.wordpress.com)
-
-  [![Website](https://img.shields.io/website?label=Qwiklabs-profile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://google.qwiklabs.com/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e)
-  
-  <br>
-  In addition:
-  <br>
-   
-  [![Website](https://img.shields.io/website?label=Tech-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thetechlearner.wordpress.com)
-  [![Website](https://img.shields.io/website?label=Infosec-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](hackitalki.home.blog)
- 
+  ul class="button-group">
+    <li><a href="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf" class="button primary pill">Resume</a></li>
+    <li><a href="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements" class="button pill">Certs/Achievements</a></li>
+    <li><a href="https://rajdeepdascv.netlify.app/" class="button pill">Web Resume</a></li>
+    <li><a href="https://iamrajdeep.wordpress.com/" class="button pill">Personal blog</a></li>
+    <li><a href="https://thetechlearner.wordpress.com/" class="button pill">Tech blog</a></li>
+    <li><a href="https://hackitalki.home.blog/" class="button pill">Infosec blog</a></li>
+</ul> 
    
  ### Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
 
