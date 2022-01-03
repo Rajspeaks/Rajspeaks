@@ -79,7 +79,7 @@ Rajdeep.interests()
 
 --------------------------------------------------------------------------------------------------------------------------
 
-  ul class="button-group">
+  <ul class="button-group">
     <li><a href="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf" class="button primary pill">Resume</a></li>
     <li><a href="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements" class="button pill">Certs/Achievements</a></li>
     <li><a href="https://rajdeepdascv.netlify.app/" class="button pill">Web Resume</a></li>
