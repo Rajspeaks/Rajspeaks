@@ -77,17 +77,20 @@ Rajdeep.interests()
 
 ```
 
---------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+### Some Links
 
-  <ul class="button-group">
-    <li><a href="https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf" class="button primary pill">Resume</a></li>
-    <li><a href="https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements" class="button pill">Certs/Achievements</a></li>
-    <li><a href="https://rajdeepdascv.netlify.app/" class="button pill">Web Resume</a></li>
-    <li><a href="https://iamrajdeep.wordpress.com/" class="button pill">Personal blog</a></li>
-    <li><a href="https://thetechlearner.wordpress.com/" class="button pill">Tech blog</a></li>
-    <li><a href="https://hackitalki.home.blog/" class="button pill">Infosec blog</a></li>
-</ul> 
-   
+[![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
+[![Website](https://img.shields.io/website?label=Open-Source&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Open-Source-Contributions)
+[![Website](https://img.shields.io/website?label=Cloud-skills&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.cloudskillsboost.google/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e)
+[![Website](https://img.shields.io/website?label=Certs/achieves&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajdeep_Das_Certifications_Achievements)
+[![Website](https://img.shields.io/website?label=Web-resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajdeepdascv.netlify.app/)
+[![Website](https://img.shields.io/website?label=Personal-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://iamrajdeep.wordpress.com)
+[![Website](https://img.shields.io/website?label=Tech-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thetechlearner.wordpress.com)
+[![Website](https://img.shields.io/website?label=Infosec-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hackitalki.home.blog)
+
+
+ 
  ### Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
 
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>&nbsp;
