@@ -47,7 +47,7 @@
 
 ### Metrics:
 
-![Metrics](https://github.com/Rajspeaks/Rajspeaks/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/Rajspeaks)
 
 
 ## About me:
