@@ -44,6 +44,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
+
+### Metrics:
+
+![Metrics](https://github.com/Rajspeaks/my-github-user/blob/main/github-metrics.svg)
+
+
 ## About me:
 
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
