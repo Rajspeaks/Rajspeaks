@@ -60,7 +60,8 @@
     print('🖱 Web Development, especially Designing enthusiast\
               Cyber Security, especially Network Security,\
               Cloud Computing, especially Dev-Ops Practitioner,\
-              Machine Learning, Interested in Natural Language Processing') #I'm not expert in all of these but 
+              Machine Learning, Interested in Natural Language Processing') 
+              #I'm not expert in all of these but eager to explore a lot
   
   def qualification():
     print('📚 Bachelor of Computer Application from Netaji Subhash Engineering College,\
