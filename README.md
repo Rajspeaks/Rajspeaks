@@ -20,19 +20,18 @@
 [![Website](https://img.shields.io/website?label=OctoProfile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://octoprofile.vercel.app/user?id=Rajspeaks)
 <br>
 
-## GitHub Stats 📊: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
+## GitHub Stats 📊: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'>
 
 [![Rajdeep's Commitments on GitHub ](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&show_icons=true&theme=vue-dark)](https://github.com/Rajspeaks/github-readme-stats)
 &nbsp; &nbsp;
 <br>
-<h2>Activity Graph📈</h2>
-<br>
+## Activity Graph 📈 
 
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
 
-<br>
+
 
 ## 🔥Streaks
 
@@ -102,7 +101,9 @@ Rajdeep.interests()
 
 
  
- ### Skills | Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
+ ### Skills
+
+#### Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
 
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>&nbsp;
@@ -141,6 +142,8 @@ Rajdeep.interests()
   <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
 </p>
 
-&copy; Rajdeep Das | Made with ❤ @GitHub
+&copy; Rajdeep Das 
+
+Made with ❤ @GitHub
   
 <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/footer.png">
