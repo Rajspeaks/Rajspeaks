@@ -84,9 +84,9 @@ Rajdeep.interests()
 ```
 
 ------------------------------------------------------------------------------------------------------------------------
-### Some Links
+<!-- ### Some Links
 
-<!-- [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
+ [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
 [![Website](https://img.shields.io/website?label=Open-Source&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Open-Source-Contributions)
 [![Website](https://img.shields.io/website?label=GCP-skills&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.cloudskillsboost.google/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e)
 [![Website](https://img.shields.io/website?label=Azure-skills&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://docs.microsoft.com/en-in/users/rajdeepdas-8562/)
@@ -101,9 +101,7 @@ Rajdeep.interests()
 
 --> 
  
- ### Skills
-
-#### Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
+ ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
 <!--
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>&nbsp;
@@ -119,7 +117,6 @@ Rajdeep.interests()
 <code><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>&nbsp;
 -->
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
