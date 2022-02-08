@@ -86,7 +86,7 @@ Rajdeep.interests()
 ------------------------------------------------------------------------------------------------------------------------
 ### Some Links
 
-[![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
+<!-- [![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Rajspeaks/blob/main/Rajdeep%20Das-Curriculum%20Vitae.pdf)
 [![Website](https://img.shields.io/website?label=Open-Source&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Rajspeaks/Open-Source-Contributions)
 [![Website](https://img.shields.io/website?label=GCP-skills&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.cloudskillsboost.google/public_profiles/54c0dd8b-b06d-4c21-8aaf-512d8e22704e)
 [![Website](https://img.shields.io/website?label=Azure-skills&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://docs.microsoft.com/en-in/users/rajdeepdas-8562/)
@@ -99,7 +99,7 @@ Rajdeep.interests()
 [![Website](https://img.shields.io/website?label=Tech-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thetechlearner.wordpress.com)
 [![Website](https://img.shields.io/website?label=Infosec-blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hackitalki.home.blog)
 
-
+--> 
  
  ### Skills
 
