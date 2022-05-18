@@ -24,11 +24,10 @@
 
 ![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=dark)
 
-<a href="https://github.com/rajspeaks.github.io">
-  [Rajdeep's GitHub Card]([url](https://github-readme-stats.vercel.app/api/pin/?username=Rajspeaks&theme=dark))
-</a>
+[Rajdeep's GitHub Card ](https://github-readme-stats.vercel.app/api/pin/?username=Rajspeaks&theme=dark)
 
 <br>
+
 ## Activity Graph 📈 
 
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
