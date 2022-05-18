@@ -25,7 +25,7 @@
 ![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=dark)
 
 <a href="https://github.com/rajspeaks.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajspeaks&repo=rajspeaks.github.io&theme=buefy" />
+  [Rajdeep's GitHub Card]([url](https://github-readme-stats.vercel.app/api/pin/?username=Rajspeaks&theme=dark))
 </a>
 
 <br>
