@@ -24,7 +24,7 @@
 
 ![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=dark)
 
-[Rajdeep's GitHub Card ](https://github-readme-stats.vercel.app/api/pin/?username=Rajspeaks&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&layout=compact)]
 
 <br>
 
