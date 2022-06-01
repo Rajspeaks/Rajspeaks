@@ -148,7 +148,7 @@ Rajdeep.interests()
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=itsrajdeepdas&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
-### Watch a 🐍 eating my contribution graph<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '30px'>
+### Watch a 🐍 eating my contribution graph<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height="50px" width = "50px">
   
 <p align="center">
   <img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Images/github-user-contribution.svg" alt="snake"></center>
