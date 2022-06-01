@@ -7,7 +7,7 @@
 <h2> <a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist: </h2>
 
 
-# Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=16A980&size=33&lines=Technology+Enthusiast;Exploring+Code-Verse;Madly+no-mad+Geek;Confused+coder;Upgrading+myself;Support+me!;Encourage+me!;Bless+me!)](https://git.io/typing-svg)
@@ -20,7 +20,7 @@
 [![Website](https://img.shields.io/website?label=OctoProfile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://octoprofile.vercel.app/user?id=Rajspeaks)
 <br>
 
-## GitHub Stats 📊: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'>
+## GitHub Stats 📊: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='10px'>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=dark)
 
@@ -52,7 +52,7 @@
 
 ## About me:
 
- <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px>
+ <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10px>
  
  - An Artistic Technophile with eager to learn mind & having an extra layer of creativity.
  - I'm a designer more than a coder!
@@ -102,7 +102,7 @@ Rajdeep.interests()
 
 --> 
  
- ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
+ ### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10px> 
 <!--
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>&nbsp;
 <code><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>&nbsp;
@@ -134,7 +134,7 @@ Rajdeep.interests()
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
+### Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10px"> 
 
 <code><a href="https://twitter.com/itsrajdeepdas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></code>&nbsp;
 <code><a href="https://linkedin.com/in/itsrajdeepdas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>&nbsp;
