@@ -7,7 +7,7 @@
 <h2> <a href="https://rajspeaks.github.io" target="_blank"> <b>Rajdeep Das</b></a> :man_technologist: </h2>
 
 
-# Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px>
+# Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="10px" width = "10px">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=16A980&size=33&lines=Technology+Enthusiast;Exploring+Code-Verse;Madly+no-mad+Geek;Confused+coder;Upgrading+myself;Support+me!;Encourage+me!;Bless+me!)](https://git.io/typing-svg)
