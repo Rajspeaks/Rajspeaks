@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Git%20Rajdeep.gif" width="500px">
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Git%20Rajdeep.gif">
 </p>
 
 ---------------------------------------------------------------------------------------------------
