@@ -37,8 +37,6 @@
 
 [![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
 
-
-
 ## 🔥Streaks
 
 <p align="center">
@@ -59,7 +57,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
-###Github Achievement badges:
+### Github Achievement badges:
 
 <p align="center">
 
