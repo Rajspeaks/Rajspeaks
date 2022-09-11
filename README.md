@@ -14,7 +14,9 @@
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VIEWS:+ )
-[![committers.top badge](https://user-badge.committers.top/india_public/Rajspeaks.svg)](https://user-badge.committers.top/india_public/Rajspeaks)
+<!--[![committers.top badge](https://user-badge.committers.top/india_public/Rajspeaks.svg)](https://user-badge.committers.top/india_public/Rajspeaks)-->
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Rajspeaks?label=Followers&style=social"> •
+<img src="https://img.shields.io/github/stars/Rajspeaks?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
 <br>
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajspeaks.github.io)
@@ -38,13 +40,29 @@
 
 ## 🔥Streaks
 
+<p align="center">
+<img height="150" width="150" src="WEBP/left.webp">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajspeaks&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<img height="150" width="150" src="WEBP/right.webp">
+</p>
+ 
 <br>
 
 ### Github Stat-Trophies🛡
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
+
+<br/>
+
+<!-- <p align="center">
+  <code>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+  </code>
+</p> -->
+
+#
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Rajspeaks&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 
 ### Metrics:
