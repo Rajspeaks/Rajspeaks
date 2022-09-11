@@ -63,12 +63,12 @@
 
 <p align="center">
 
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/galaxy-brain-default.png"/>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/pair-extraordinaire-default.png"/>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/pull-shark-bronze.png"/>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/quickdraw-default.png"/>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/starstruck-default.png"/>
-<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/yolo-default.png"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/galaxy-brain-default.png" height="50" width="50"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/pair-extraordinaire-default.png" height="50" width="50"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/pull-shark-bronze.png" height="50" width="50"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/quickdraw-default.png" height="50" width="50"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/starstruck-default.png" height="50" width="50"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/yolo-default.png" height="50" width="50"/>
 
 </p>
 
