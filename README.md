@@ -59,6 +59,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
 
+###Github Achievement badges:
+
+<p align="center">
+
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/galaxy-brain-default.png"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/pair-extraordinaire-default.png"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/pull-shark-bronze.png"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/quickdraw-default.png"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/starstruck-default.png"/>
+<img src="https://github.com/Rajspeaks/Rajspeaks/blob/main/Achiever%20badges/yolo-default.png"/>
+
+</p>
 
 ### Metrics:
 
