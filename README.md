@@ -42,11 +42,15 @@
 ## 🔥Streaks
 
 <p align="center">
-<img height="150" width="150" src="WEBP/left.webp">
+
+ <img height="150" width="150" src="WEBP/left.webp">
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajspeaks&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajspeaks&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+ 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajspeaks&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
  
 <img height="150" width="150" src="WEBP/right.webp">
+ 
 </p>
  
 <br>
