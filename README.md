@@ -43,7 +43,9 @@
 
 <p align="center">
 <img height="150" width="150" src="WEBP/left.webp">
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajspeaks&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
 <img height="150" width="150" src="WEBP/right.webp">
 </p>
  
