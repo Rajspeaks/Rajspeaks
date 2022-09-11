@@ -14,7 +14,8 @@
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=Rajspeaks&color=blue&label=COUNTING+PROFILE+VIEWS:+ )
-<a href="https://user-badge.committers.top/india_private/Rajspeaks"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"></a>
+[![committers.top badge](https://user-badge.committers.top/india_public/Rajspeaks.svg)](https://user-badge.committers.top/india_public/Rajspeaks)
+
 <br>
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajspeaks.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsrajdeepdas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=itsrajdeepdas)
