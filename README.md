@@ -87,6 +87,9 @@
 ```python
 
   class Rajdeep:
+  def work():
+  print(':briefcase: Programmer Analyst Trainee- Oracle EBS Solution Developer at Cognizant Technology Solution,\
+         Intern- Oracle Solution Practice at Cognizant Technology Solution')
   def skills():
     print('🖱 Web Development, especially Designing enthusiast\
               Cyber Security, especially Network Security,\
@@ -95,14 +98,15 @@
               #I'm not expert in all of these but eager to explore a lot
   
   def qualification():
-    print('📚 Bachelor of Computer Application from Netaji Subhash Engineering College,\
-              Master of Computer Application from Heritage Institute of Tcehnology')
+    print('📚 Master of Computer Application from Heritage Institute of Tcehnology,\
+              Bachelor of Computer Application from Netaji Subhash Engineering College')
   
   def interests():
     print('👨‍💻 Blogging, 📸 Photography,\
            📖 Reading story books,\
            🎬 Science-friction movies')
   
+Rajdeep.work()
 Rajdeep.skills()
 Rajdeep.qualification()
 Rajdeep.interests()
