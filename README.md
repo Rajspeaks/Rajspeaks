@@ -88,7 +88,7 @@
 
   class Rajdeep:
   def work():
-  print(':briefcase: Programmer Analyst Trainee- Oracle EBS Solution Developer at Cognizant Technology Solution,\
+  print('Programmer Analyst Trainee- Oracle EBS Solution Developer at Cognizant Technology Solution,\
          Intern- Oracle Solution Practice at Cognizant Technology Solution')
   def skills():
     print('🖱 Web Development, especially Designing enthusiast\
