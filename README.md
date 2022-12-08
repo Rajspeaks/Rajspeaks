@@ -87,10 +87,17 @@
 ```python
 
   class Rajdeep:
+
   def work():
-  print('Programmer Analyst Trainee- Oracle EBS Solution Developer at Cognizant Technology Solution,\
-         Intern- Oracle Solution Practice at Cognizant Technology Solution')
-  def skills():
+  print('💼 Oracle EBS & Edge Apps Solution Developer at Cognizant Technology Solution,\
+            Former HIT-K Tech Lead @GeeksforGeeks India
+            Former Open Source Mentor, Kolkata Chapter Lead & Dev @GirlScript Foundation,\
+            Former Educator- MIE @Microsoft Trainer Academy,\
+            Former Teaching Assistant & outreach @Coding Blocks,\
+            Former Ninja Entrepreneur @Coding Ninja,\
+            Former Campus Lead Coding Outreach @Hackerearth')
+        
+   def skills():
     print('🖱 Web Development, especially Designing enthusiast\
               Cyber Security, especially Network Security,\
               Cloud Computing, especially Dev-Ops Practitioner,\
@@ -104,7 +111,8 @@
   def interests():
     print('👨‍💻 Blogging, 📸 Photography,\
            📖 Reading story books,\
-           🎬 Science-friction movies')
+           🎬 Science-friction movies\
+           💻 Web Designing')
   
 Rajdeep.work()
 Rajdeep.skills()
