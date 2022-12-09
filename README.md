@@ -90,7 +90,7 @@
 
   def work():
   print('💼 Oracle EBS & Edge Apps Solution Developer at Cognizant Technology Solution,\
-            Former HIT-K Tech Lead @GeeksforGeeks India
+            Former HIT-K Tech Lead @GeeksforGeeks India,\
             Former Open Source Mentor, Kolkata Chapter Lead & Dev @GirlScript Foundation,\
             Former Educator- MIE @Microsoft Trainer Academy,\
             Former Teaching Assistant & outreach @Coding Blocks,\
