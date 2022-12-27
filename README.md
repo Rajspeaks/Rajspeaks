@@ -177,7 +177,7 @@ Rajdeep.interests()
 <code><a href="https://linkedin.com/in/itsrajdeepdas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>&nbsp;
 <code><a href="https://gitlab.com/Rajspeaks"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a></code>&nbsp;
 <code><a href="https://www.youtube.com/channel/UCSYftgkB9hzEW4haNCCs0jw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></code>&nbsp;
-<code><a href="https://rajdeepblog.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></code>&nbsp;
+<code><a href="https://rajdeep-das-blogger.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></code>&nbsp;
 <code><a href="https://iamrajdeep.wordpress.com"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a></code>&nbsp;
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
