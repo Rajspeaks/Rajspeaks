@@ -96,6 +96,7 @@
             Former Teaching Assistant & outreach @Coding Blocks,\
             Former Ninja Entrepreneur @Coding Ninja,\
             Former Campus Lead Coding Outreach @Hackerearth')
+            #List is long
         
    def skills():
     print('🖱 Web Development, especially Designing enthusiast\
@@ -107,12 +108,18 @@
   def qualification():
     print('📚 Master of Computer Application from Heritage Institute of Tcehnology,\
               Bachelor of Computer Application from Netaji Subhash Engineering College')
+              #Learning has no limits
+              
+  def activities():
+    print(' Founder & blogger of @TheTechLearner, @HackiTalki')
+          #Trying to follow my passion
   
   def interests():
     print('👨‍💻 Blogging, 📸 Photography,\
            📖 Reading story books,\
            🎬 Science-friction movies\
            💻 Web Designing')
+           #There are more in the bucket
   
 Rajdeep.work()
 Rajdeep.skills()
