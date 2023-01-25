@@ -79,7 +79,9 @@
 
  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px" width = "50px">
  
- - An Artistic Technophile with eager to learn mind & having an extra layer of creativity.
+ <p> <h3> Currently working as an Oracle ERP Solution Developer at Cognizant Technology Solutions India Pvt. Ltd. </h3></p>
+ 
+ - A psychic technophile with an eager to learn soul & having an extra layer of creativity.
  - I'm a designer more than a coder!
  - Exploring all my INABILITIES! So that I can fork them to modify, can make pull requests & finally with God's bless I can merge the changes to my ABILITIES!
 
@@ -124,6 +126,7 @@
 Rajdeep.work()
 Rajdeep.skills()
 Rajdeep.qualification()
+Rajdeep.activities()
 Rajdeep.interests()
 
 ```
@@ -180,13 +183,20 @@ Rajdeep.interests()
 
 ### Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px" width = "50px"> 
 
+<code><a href="https://facebook.com/rajdeep.developer/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a></code>&nbsp;
 <code><a href="https://twitter.com/itsrajdeepdas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></code>&nbsp;
 <code><a href="https://linkedin.com/in/itsrajdeepdas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>&nbsp;
+<code><a href="https://www.researchgate.net/profile/Rajdeep-Das-12"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a></code>&nbsp;
+<code><a href="https://www.quora.com/profile/Rajdeep-Das-94"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a></code>&nbsp;
+<code><a href="https://iamrajdeep.wordpress.com"><img src="https://img.shields.io/badge/Personal-blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a></code>&nbsp;
 <code><a href="https://gitlab.com/Rajspeaks"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a></code>&nbsp;
-<code><a href="https://www.youtube.com/channel/UCSYftgkB9hzEW4haNCCs0jw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></code>&nbsp;
+<code><a href="https://www.youtube.com/@rajdeep-das"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></code>&nbsp;
+<code><a href="rajdeepdas.bio.link"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a></code>&nbsp;
+<code><a href="https://instagram.com/itz__rajj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></code>&nbsp;
+<code><a href="about.me/rajdeepdas"><img src="https://img.shields.io/badge/about.me-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a></code>&nbsp;
+<code><a href="https://www.polywork.com/rajdeep_das"><img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"></a></code>&nbsp;
 <code><a href="https://rajdeep-das-blogger.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></code>&nbsp;
-<code><a href="https://iamrajdeep.wordpress.com"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a></code>&nbsp;
-
+<code><a href="https://pinterest.com/itsrajdeepdas"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a></code>&nbsp;
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/Akshita_archer/github-readme-twitter">
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=itsrajdeepdas&layout=wide&show_reply=off&show_retweet=off" />
