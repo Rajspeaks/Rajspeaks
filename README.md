@@ -193,7 +193,7 @@ Rajdeep.interests()
 <code><a href="https://www.youtube.com/@rajdeep-das"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></code>&nbsp;
 <code><a href="https://rajdeepdas.bio.link"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a></code>&nbsp;
 <code><a href="https://instagram.com/itz__rajj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></code>&nbsp;
-<code><a href="about.me/rajdeepdas"><img src="https://img.shields.io/badge/about.me-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a></code>&nbsp;
+<code><a href="https://about.me/rajdeepdas"><img src="https://img.shields.io/badge/about.me-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a></code>&nbsp;
 <code><a href="https://www.polywork.com/rajdeep_das"><img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"></a></code>&nbsp;
 <code><a href="https://rajdeep-das-blogger.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></code>&nbsp;
 <code><a href="https://pinterest.com/itsrajdeepdas"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a></code>&nbsp;
