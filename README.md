@@ -26,7 +26,7 @@
 <br>
 
 ## GitHub Stats 📊: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height="50px" width = "50px">
-![](https://github-readme-stats.vercel.app/api?username=Rajspeaks&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+[![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rajspeaks/github-readme-stats#gh-dark-mode-only)
 
 ![Languages I used mostly](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&layout=compact&theme=dark)
 
@@ -179,11 +179,6 @@ Rajdeep.interests()
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rajspeaks&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rajspeaks&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -204,9 +199,9 @@ Rajdeep.interests()
 <code><a href="https://rajdeepblog.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></code>&nbsp;
 <code><a href="https://pinterest.com/itsrajdeepdas"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a></code>&nbsp;
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://github.com/Akshita_archer/github-readme-twitter">
+<!--<a href="https://github.com/Akshita_archer/github-readme-twitter">
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=itsrajdeepdas&layout=wide&show_reply=off&show_retweet=off" />
-</a>
+</a> -->
 
 ### Watch a 🐍 eating my contribution graph<img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' height="50px" width = "50px">
   
