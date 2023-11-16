@@ -26,8 +26,10 @@
 <br>
 
 ## GitHub Stats 📊: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' height="50px" width = "50px">
+![](https://github-readme-stats.vercel.app/api?username=Rajspeaks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rajspeaks&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajspeaks&show_icons=true&theme=dark)
 
 ![Languages I used mostly](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajspeaks&layout=compact&theme=dark)
 
@@ -35,8 +37,7 @@
 
 ## Activity Graph 📈 
 
-[![Rajdeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajspeaks&theme=react-dark)](https://github.com/Rajspeaks/github-readme-activity-graph)
-
+[![Rajdeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajspeaks&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/rajspeaks/github-readme-activity-graph)
 ## 🔥Streaks
 
 <p align="center">
@@ -55,7 +56,8 @@
 
 ### Github Stat-Trophies🛡
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rajspeaks&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Rajspeaks/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=Rajspeaks&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### Github Achievement badges:
 
@@ -175,6 +177,12 @@ Rajdeep.interests()
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rajspeaks&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rajspeaks&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
